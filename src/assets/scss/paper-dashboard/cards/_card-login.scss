@@ -1,4 +1,4 @@
-.card-user {
+.card-login {
   .image {
     height: 140px;
 
@@ -45,6 +45,10 @@
 
   .button-container {
     margin-bottom: 6px;
+    text-align: center;
+  }
+
+  .card-header {
     text-align: center;
   }
 }
